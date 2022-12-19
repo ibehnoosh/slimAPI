@@ -1,6 +1,6 @@
 <?php
 
-$db_host = '127.0.0.1';
+$db_host = 'localhost';
 $db_name = 'chatter';
-$db_user = 'chatter_api';
-$db_pass = 'chatter_api';
+$db_user = 'root';
+$db_pass = '';
